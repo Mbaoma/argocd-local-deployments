@@ -30,3 +30,4 @@ $ kubectl apply  -f <argocd-deployment-config>.yaml
 - Access the app by clicking on the created pod, and then logs
 <img width="1349" alt="image" src="https://github.com/Mbaoma/fastAPI/assets/49791498/fcc05246-9d48-49c4-9191-d49cf9eece4c">
 
+<img width="1349" alt="image" src="https://github.com/Mbaoma/fastAPI/assets/49791498/36747f25-3a79-4d8f-ad24-ca5b991bdc64">
